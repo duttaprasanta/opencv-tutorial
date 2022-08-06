@@ -23,5 +23,6 @@ If you like this repository, please 'star' it and follow me. This will give me i
 
 ## Some useful links
 * Project Link (Github) : https://github.com/duttaprasanta/opencv-tutorial
+* Run on kaggle : https://www.kaggle.com/prasantadutta/opencv1
 * Project Website : https://duttaprasanta.github.io/opencv-tutorial/
 * Email : prasanta7dutta@gmail.com
