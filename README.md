@@ -4,6 +4,9 @@ A simple tutorial for OpenCV beginners.
 ## Tutorials
 1. [Part 1](opencv1.ipynb)
 
+## Run on Kaggle
+1. [Part 1](https://www.kaggle.com/prasantadutta/opencv1)
+
 ## Future Scope 
 I shall add more tutorials (parts) into this repository.
 
