@@ -22,7 +22,7 @@ If you like this repository, please 'star' it and follow me. This will give me i
 3. Create a Pull request
 
 ## Some useful links
-* Project Link (Github) : https://github.com/duttaprasanta/opencv-tutorial
-* Run on kaggle : https://www.kaggle.com/prasantadutta/opencv1
-* Project Website : https://duttaprasanta.github.io/opencv-tutorial/
-* Email : prasanta7dutta@gmail.com
+* Project Link (Github) : [https://github.com/duttaprasanta/opencv-tutorial](https://github.com/duttaprasanta/opencv-tutorial)
+* Run on kaggle : [https://www.kaggle.com/prasantadutta/opencv1](https://www.kaggle.com/prasantadutta/opencv1)
+* Project Website : [https://duttaprasanta.github.io/opencv-tutorial/](https://duttaprasanta.github.io/opencv-tutorial/)
+* Email : [prasanta7dutta@gmail.com](mailto:prasanta7dutta@gmail.com)
