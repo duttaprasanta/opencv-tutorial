@@ -2,7 +2,7 @@
 A simple tutorial for OpenCV beginners.
 
 ## Tutorials
-1. [Part 1](opencv1.ipynb)
+1. [Part 1](https://github.com/duttaprasanta/opencv-tutorial/blob/main/opencv1.ipynb)
 
 ## Run on Kaggle
 1. [Part 1](https://www.kaggle.com/prasantadutta/opencv1)
@@ -14,10 +14,10 @@ I shall add more tutorials (parts) into this repository.
 [MIT](LICENSE)
 
 ## Support
-If you like this repository, please 'star' it and follow me. This will give me inspiration for open-source contribution.
+If you like this repository, please [star it](https://github.com/duttaprasanta/opencv-tutorial) and [follow me](https://github.com/duttaprasanta). This will give me inspiration for open-source contribution.
 
 ## Want to contribute?
-1. Fork this repository
+1. [Fork](https://github.com/duttaprasanta/opencv-tutorial) this repository
 2. Modify it
 3. Create a Pull request
 
